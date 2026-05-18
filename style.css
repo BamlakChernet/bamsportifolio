@@ -167,10 +167,10 @@ section {
 }
 
 .profile-img img {
-    margin-top: -40px;
     width: 220px;
     height: 220px;
     object-fit: cover;
+    object-position: center top;
     border-radius: 50%;
     border: 5px solid #fff;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
